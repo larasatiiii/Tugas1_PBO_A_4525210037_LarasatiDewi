@@ -42,12 +42,12 @@ Beberapa konsep yang dipraktikkan dalam project ini:
 
 ![Screenshot hasil program](images/output-02.jpeg)
 
-3.  Inheritance (pewarisan) dengan `Handphone`, `Smartphone`, dan `FeaturePhone` |
+3.  Konsep dasar class/object dan beberapa latihan PBO
 
 ![Screenshot hasil program](images/output-03-01.jpeg)
 ![Screenshot hasil program](images/output-03-02.jpeg)
 
-4.  Constructor, getter, setter, dan object Mahasiswa
+4. Inheritance (pewarisan) dengan `Handphone`, `Smartphone`, dan `FeaturePhone`
 
 ![Screenshot hasil program](images/output-04.jpeg)
 
